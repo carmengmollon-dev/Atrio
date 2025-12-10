@@ -20,6 +20,8 @@ interface ConfessionalProps {
   onMinimize?: () => void;
 }
 
+// comentario de prueba para hacer un commit
+
 const VOICE_OPTIONS = [
   { id: 'Kore', label: 'Kore', desc: 'Sereno y profundo (Predeterminado)' },
   { id: 'Fenrir', label: 'Fenrir', desc: 'Grave y solemne' },
