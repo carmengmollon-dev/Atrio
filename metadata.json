@@ -1,0 +1,7 @@
+{
+  "name": "El Atrio",
+  "description": "A digital sanctuary for anonymous confession and empathetic listening.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
